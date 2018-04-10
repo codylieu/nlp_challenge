@@ -1,0 +1,5 @@
+env
+*.pyc
+data/model_generation_format/*
+generated_models/*
+.DS_Store
