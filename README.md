@@ -6,10 +6,10 @@ Follow the steps below to run:
 1. Clone this repository
 2. Execute `sudo easy_install pip` if you don't already have pip installed.
 3. Execute `pip install virtualenv` to install virtual env
-4. Execute `virtualenv nlp_challenge`
-5. Execute `source nlp_challenge/bin/activate` to activate the virtual environment
+4. Execute `virtualenv .`
+5. Execute `source bin/activate` to activate the virtual environment
 6. Execute `pip install -r requirements.txt` to install the project modules
-7. Execute `python predict_review_sentiment` to start model generation and sentiment prediction cli interface
+7. Execute `python predict_review_sentiment.py` to start model generation and sentiment prediction cli interface
 
 ### The Code
 
