@@ -1,5 +1,7 @@
 env
 *.pyc
-data/model_generation_format/*
-generated_models/*
 .DS_Store
+data/model_generation_format/*
+!data/model_generation_format/.gitkeep
+generated_models/*
+!generated_models/.gitkeep
