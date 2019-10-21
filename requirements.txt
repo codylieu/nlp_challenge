@@ -19,7 +19,7 @@ chardet==3.0.4
 colorama==0.3.7
 configparser==3.5.0
 docutils==0.14
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.1.6
 Fabric==1.5.1
 flake8==3.0.4
