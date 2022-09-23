@@ -48,7 +48,7 @@ packaging==17.1
 paramiko==1.13.0
 pbr==4.0.1
 pep8==1.7.0
-protobuf==3.5.2.post1
+protobuf==3.18.3
 py2app==0.7.3
 pyasn1==0.2.2
 pycodestyle==2.0.0
