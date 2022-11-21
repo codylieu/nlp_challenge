@@ -104,7 +104,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 smart-open==1.5.7
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.9.3
 termcolor==1.1.0
 tornado==5.0.2
 tqdm==4.20.0
